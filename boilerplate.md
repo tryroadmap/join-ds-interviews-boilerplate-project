@@ -1,4 +1,4 @@
-# A Template of interview questions for LMS Upload
+# A Boilerplate of interview questions for LMS Upload
 
 * Legend: 👶 easy ‍⭐️ medium 🚀 advanced
 
